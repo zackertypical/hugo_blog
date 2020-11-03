@@ -1,0 +1,15 @@
+
+[zh]
+  title = "Zacker's 博客"
+  languageName = "Chinese"
+  weight = 10
+  languagedir = "ltr"
+  contentdir = "content/zh"
+
+[en]
+  title = "Zzossig's Blog"
+  languageName = "English"
+  weight = 2
+  languagedir = "ltr"
+  contentdir = "content/en"
+
